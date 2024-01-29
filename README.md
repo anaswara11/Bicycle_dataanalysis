@@ -24,3 +24,9 @@ This Jupyter Notebook contains a comprehensive analysis of a dataset related to 
 * Files Included:<br>
   bicycle.csv: Original dataset.<br>
   transformed_data.csv: Transformed dataset after preprocessing.
+
+
+## Additional Information
+
+This analysis was conducted using Python and various libraries, including Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+Feel free to customize the analysis or extend it based on your specific needs.
