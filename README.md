@@ -1,7 +1,7 @@
 # Bicycle Data Analysis
 
 ## Overview
-This Jupyter Notebook contains a comprehensive analysis of a dataset related to bicycles, including various features such as seller information, brand, specifications, and pricing. The analysis covers data cleaning, exploration, visualization, and transformation.
+This Jupyter Notebook contains a comprehensive analysis of a dataset related to bicycles, including various features such as seller information, brand, specifications, and pricing. The analysis covers data cleaning, exploration, visualization, and transformation. Developed using libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 
 ## Instructions
 * Ensure you have the required libraries installed by running the following command: <br>
